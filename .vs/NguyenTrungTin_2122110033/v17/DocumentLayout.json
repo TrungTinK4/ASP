@@ -1,12 +1,228 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\NetCore\\NguyenTrungTin_2122110033\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|c:\\netcore\\nguyentrungtin_2122110033\\nguyentrungtin_2122110033\\controllers\\productscontronller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|solutionrelative:nguyentrungtin_2122110033\\controllers\\productscontronller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|c:\\netcore\\nguyentrungtin_2122110033\\nguyentrungtin_2122110033\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|solutionrelative:nguyentrungtin_2122110033\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|c:\\netcore\\nguyentrungtin_2122110033\\nguyentrungtin_2122110033\\model\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|solutionrelative:nguyentrungtin_2122110033\\model\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|c:\\netcore\\nguyentrungtin_2122110033\\nguyentrungtin_2122110033\\data\\appdbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|solutionrelative:nguyentrungtin_2122110033\\data\\appdbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|c:\\netcore\\nguyentrungtin_2122110033\\nguyentrungtin_2122110033\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|solutionrelative:nguyentrungtin_2122110033\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|c:\\netcore\\nguyentrungtin_2122110033\\nguyentrungtin_2122110033\\model\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|solutionrelative:nguyentrungtin_2122110033\\model\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|c:\\netcore\\nguyentrungtin_2122110033\\nguyentrungtin_2122110033\\model\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|solutionrelative:nguyentrungtin_2122110033\\model\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|c:\\netcore\\nguyentrungtin_2122110033\\nguyentrungtin_2122110033\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|solutionrelative:nguyentrungtin_2122110033\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|c:\\netcore\\nguyentrungtin_2122110033\\nguyentrungtin_2122110033\\model\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|solutionrelative:nguyentrungtin_2122110033\\model\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|c:\\netcore\\nguyentrungtin_2122110033\\nguyentrungtin_2122110033\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|solutionrelative:nguyentrungtin_2122110033\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|c:\\netcore\\nguyentrungtin_2122110033\\nguyentrungtin_2122110033\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|solutionrelative:nguyentrungtin_2122110033\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|c:\\netcore\\nguyentrungtin_2122110033\\nguyentrungtin_2122110033\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|solutionrelative:nguyentrungtin_2122110033\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|c:\\netcore\\nguyentrungtin_2122110033\\nguyentrungtin_2122110033\\nguyentrungtin_2122110033.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|solutionrelative:nguyentrungtin_2122110033\\nguyentrungtin_2122110033.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsContronller.cs",
+              "DocumentMoniker": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\Controllers\\ProductsContronller.cs",
+              "RelativeDocumentMoniker": "NguyenTrungTin_2122110033\\Controllers\\ProductsContronller.cs",
+              "ToolTip": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\Controllers\\ProductsContronller.cs",
+              "RelativeToolTip": "NguyenTrungTin_2122110033\\Controllers\\ProductsContronller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T04:00:22.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\Model\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "NguyenTrungTin_2122110033\\Model\\OrderDetail.cs",
+              "ToolTip": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\Model\\OrderDetail.cs",
+              "RelativeToolTip": "NguyenTrungTin_2122110033\\Model\\OrderDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T02:31:05.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "NguyenTrungTin_2122110033\\Model\\Order.cs",
+              "ToolTip": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\Model\\Order.cs",
+              "RelativeToolTip": "NguyenTrungTin_2122110033\\Model\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T02:30:53.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\Model\\Cart.cs",
+              "RelativeDocumentMoniker": "NguyenTrungTin_2122110033\\Model\\Cart.cs",
+              "ToolTip": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\Model\\Cart.cs",
+              "RelativeToolTip": "NguyenTrungTin_2122110033\\Model\\Cart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T01:54:50.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\Model\\Post.cs",
+              "RelativeDocumentMoniker": "NguyenTrungTin_2122110033\\Model\\Post.cs",
+              "ToolTip": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\Model\\Post.cs",
+              "RelativeToolTip": "NguyenTrungTin_2122110033\\Model\\Post.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T01:54:30.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Banner.cs",
+              "DocumentMoniker": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\Model\\Banner.cs",
+              "RelativeDocumentMoniker": "NguyenTrungTin_2122110033\\Model\\Banner.cs",
+              "ToolTip": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\Model\\Banner.cs",
+              "RelativeToolTip": "NguyenTrungTin_2122110033\\Model\\Banner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T01:44:05.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NguyenTrungTin_2122110033",
+              "DocumentMoniker": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj",
+              "RelativeDocumentMoniker": "NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj",
+              "ToolTip": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj",
+              "RelativeToolTip": "NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-04T01:01:09.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\Model\\User.cs",
+              "RelativeDocumentMoniker": "NguyenTrungTin_2122110033\\Model\\User.cs",
+              "ToolTip": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\Model\\User.cs",
+              "RelativeToolTip": "NguyenTrungTin_2122110033\\Model\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T00:59:53.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "NguyenTrungTin_2122110033\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "NguyenTrungTin_2122110033\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T00:57:07.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\appsettings.json",
+              "RelativeDocumentMoniker": "NguyenTrungTin_2122110033\\appsettings.json",
+              "ToolTip": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\appsettings.json",
+              "RelativeToolTip": "NguyenTrungTin_2122110033\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-28T04:02:14.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "NguyenTrungTin_2122110033\\Model\\Product.cs",
+              "ToolTip": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\Model\\Product.cs",
+              "RelativeToolTip": "NguyenTrungTin_2122110033\\Model\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T02:19:09.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbConnect.cs",
+              "DocumentMoniker": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\Data\\AppDbConnect.cs",
+              "RelativeDocumentMoniker": "NguyenTrungTin_2122110033\\Data\\AppDbConnect.cs",
+              "ToolTip": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\Data\\AppDbConnect.cs",
+              "RelativeToolTip": "NguyenTrungTin_2122110033\\Data\\AppDbConnect.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T02:16:57.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\Program.cs",
+              "RelativeDocumentMoniker": "NguyenTrungTin_2122110033\\Program.cs",
+              "ToolTip": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\Program.cs",
+              "RelativeToolTip": "NguyenTrungTin_2122110033\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T02:15:13.372Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
