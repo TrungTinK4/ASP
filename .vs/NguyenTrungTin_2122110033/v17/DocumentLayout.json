@@ -3,52 +3,92 @@
   "WorkspaceRootPath": "C:\\NetCore\\NguyenTrungTin_2122110033\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|c:\\netcore\\nguyentrungtin_2122110033\\nguyentrungtin_2122110033\\controllers\\productscontronller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|solutionrelative:nguyentrungtin_2122110033\\controllers\\productscontronller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|c:\\netcore\\nguyentrungtin_2122110033\\nguyentrungtin_2122110033\\controllers\\donhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|solutionrelative:nguyentrungtin_2122110033\\controllers\\donhangscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|c:\\netcore\\nguyentrungtin_2122110033\\nguyentrungtin_2122110033\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|solutionrelative:nguyentrungtin_2122110033\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|c:\\netcore\\nguyentrungtin_2122110033\\nguyentrungtin_2122110033\\controllers\\dichvucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|solutionrelative:nguyentrungtin_2122110033\\controllers\\dichvucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|c:\\netcore\\nguyentrungtin_2122110033\\nguyentrungtin_2122110033\\model\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|solutionrelative:nguyentrungtin_2122110033\\model\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|c:\\netcore\\nguyentrungtin_2122110033\\nguyentrungtin_2122110033\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|solutionrelative:nguyentrungtin_2122110033\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|c:\\netcore\\nguyentrungtin_2122110033\\nguyentrungtin_2122110033\\data\\appdbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|solutionrelative:nguyentrungtin_2122110033\\data\\appdbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|c:\\netcore\\nguyentrungtin_2122110033\\nguyentrungtin_2122110033\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|solutionrelative:nguyentrungtin_2122110033\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|c:\\netcore\\nguyentrungtin_2122110033\\nguyentrungtin_2122110033\\model\\khachhangrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|solutionrelative:nguyentrungtin_2122110033\\model\\khachhangrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|c:\\netcore\\nguyentrungtin_2122110033\\nguyentrungtin_2122110033\\model\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|solutionrelative:nguyentrungtin_2122110033\\model\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|c:\\netcore\\nguyentrungtin_2122110033\\nguyentrungtin_2122110033\\model\\danhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|solutionrelative:nguyentrungtin_2122110033\\model\\danhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|c:\\netcore\\nguyentrungtin_2122110033\\nguyentrungtin_2122110033\\model\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|solutionrelative:nguyentrungtin_2122110033\\model\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|c:\\netcore\\nguyentrungtin_2122110033\\nguyentrungtin_2122110033\\model\\aspnetuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|solutionrelative:nguyentrungtin_2122110033\\model\\aspnetuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|c:\\netcore\\nguyentrungtin_2122110033\\nguyentrungtin_2122110033\\controllers\\securitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|solutionrelative:nguyentrungtin_2122110033\\controllers\\securitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|c:\\netcore\\nguyentrungtin_2122110033\\nguyentrungtin_2122110033\\model\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|solutionrelative:nguyentrungtin_2122110033\\model\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|c:\\netcore\\nguyentrungtin_2122110033\\nguyentrungtin_2122110033\\model\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|solutionrelative:nguyentrungtin_2122110033\\model\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|c:\\netcore\\nguyentrungtin_2122110033\\nguyentrungtin_2122110033\\model\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|solutionrelative:nguyentrungtin_2122110033\\model\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|c:\\netcore\\nguyentrungtin_2122110033\\nguyentrungtin_2122110033\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|solutionrelative:nguyentrungtin_2122110033\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|c:\\netcore\\nguyentrungtin_2122110033\\nguyentrungtin_2122110033\\model\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|solutionrelative:nguyentrungtin_2122110033\\model\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|c:\\netcore\\nguyentrungtin_2122110033\\nguyentrungtin_2122110033\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|solutionrelative:nguyentrungtin_2122110033\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|c:\\netcore\\nguyentrungtin_2122110033\\nguyentrungtin_2122110033\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|solutionrelative:nguyentrungtin_2122110033\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|c:\\netcore\\nguyentrungtin_2122110033\\nguyentrungtin_2122110033\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|solutionrelative:nguyentrungtin_2122110033\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|c:\\netcore\\nguyentrungtin_2122110033\\nguyentrungtin_2122110033\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|solutionrelative:nguyentrungtin_2122110033\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|c:\\netcore\\nguyentrungtin_2122110033\\nguyentrungtin_2122110033\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|solutionrelative:nguyentrungtin_2122110033\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|c:\\netcore\\nguyentrungtin_2122110033\\nguyentrungtin_2122110033\\model\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|solutionrelative:nguyentrungtin_2122110033\\model\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|c:\\netcore\\nguyentrungtin_2122110033\\nguyentrungtin_2122110033\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|solutionrelative:nguyentrungtin_2122110033\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|c:\\netcore\\nguyentrungtin_2122110033\\nguyentrungtin_2122110033\\model\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|solutionrelative:nguyentrungtin_2122110033\\model\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|c:\\netcore\\nguyentrungtin_2122110033\\nguyentrungtin_2122110033\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|solutionrelative:nguyentrungtin_2122110033\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|c:\\netcore\\nguyentrungtin_2122110033\\nguyentrungtin_2122110033\\model\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|solutionrelative:nguyentrungtin_2122110033\\model\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|c:\\netcore\\nguyentrungtin_2122110033\\nguyentrungtin_2122110033\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|solutionrelative:nguyentrungtin_2122110033\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|c:\\netcore\\nguyentrungtin_2122110033\\nguyentrungtin_2122110033\\model\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|solutionrelative:nguyentrungtin_2122110033\\model\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A6C4B15D-41DB-420B-87D9-766931FE5DB2}|NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj|c:\\netcore\\nguyentrungtin_2122110033\\nguyentrungtin_2122110033\\nguyentrungtin_2122110033.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
@@ -62,24 +102,154 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KhachHangRole.cs",
+              "DocumentMoniker": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\Model\\KhachHangRole.cs",
+              "RelativeDocumentMoniker": "NguyenTrungTin_2122110033\\Model\\KhachHangRole.cs",
+              "ToolTip": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\Model\\KhachHangRole.cs",
+              "RelativeToolTip": "NguyenTrungTin_2122110033\\Model\\KhachHangRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T02:17:33.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DanhMuc.cs",
+              "DocumentMoniker": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\Model\\DanhMuc.cs",
+              "RelativeDocumentMoniker": "NguyenTrungTin_2122110033\\Model\\DanhMuc.cs",
+              "ToolTip": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\Model\\DanhMuc.cs",
+              "RelativeToolTip": "NguyenTrungTin_2122110033\\Model\\DanhMuc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T02:16:45.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AspNetUser.cs",
+              "DocumentMoniker": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\Model\\AspNetUser.cs",
+              "RelativeDocumentMoniker": "NguyenTrungTin_2122110033\\Model\\AspNetUser.cs",
+              "ToolTip": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\Model\\AspNetUser.cs",
+              "RelativeToolTip": "NguyenTrungTin_2122110033\\Model\\AspNetUser.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAIwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T02:16:08.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SignIn.cs",
+              "DocumentMoniker": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\Model\\SignIn.cs",
+              "RelativeDocumentMoniker": "NguyenTrungTin_2122110033\\Model\\SignIn.cs",
+              "ToolTip": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\Model\\SignIn.cs",
+              "RelativeToolTip": "NguyenTrungTin_2122110033\\Model\\SignIn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T02:12:53.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\Model\\Register.cs",
+              "RelativeDocumentMoniker": "NguyenTrungTin_2122110033\\Model\\Register.cs",
+              "ToolTip": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\Model\\Register.cs",
+              "RelativeToolTip": "NguyenTrungTin_2122110033\\Model\\Register.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T02:12:23.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SecurityController.cs",
+              "DocumentMoniker": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\Controllers\\SecurityController.cs",
+              "RelativeDocumentMoniker": "NguyenTrungTin_2122110033\\Controllers\\SecurityController.cs",
+              "ToolTip": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\Controllers\\SecurityController.cs",
+              "RelativeToolTip": "NguyenTrungTin_2122110033\\Controllers\\SecurityController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T02:11:34.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProductsContronller.cs",
-              "DocumentMoniker": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\Controllers\\ProductsContronller.cs",
-              "RelativeDocumentMoniker": "NguyenTrungTin_2122110033\\Controllers\\ProductsContronller.cs",
-              "ToolTip": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\Controllers\\ProductsContronller.cs",
-              "RelativeToolTip": "NguyenTrungTin_2122110033\\Controllers\\ProductsContronller.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGAAAAABAAAA",
+              "Title": "DonHangsController.cs",
+              "DocumentMoniker": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\Controllers\\DonHangsController.cs",
+              "RelativeDocumentMoniker": "NguyenTrungTin_2122110033\\Controllers\\DonHangsController.cs",
+              "ToolTip": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\Controllers\\DonHangsController.cs",
+              "RelativeToolTip": "NguyenTrungTin_2122110033\\Controllers\\DonHangsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T02:10:17.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DichVuController.cs",
+              "DocumentMoniker": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\Controllers\\DichVuController.cs",
+              "RelativeDocumentMoniker": "NguyenTrungTin_2122110033\\Controllers\\DichVuController.cs",
+              "ToolTip": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\Controllers\\DichVuController.cs",
+              "RelativeToolTip": "NguyenTrungTin_2122110033\\Controllers\\DichVuController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T02:10:02.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "NguyenTrungTin_2122110033\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\Controllers\\CartController.cs",
+              "RelativeToolTip": "NguyenTrungTin_2122110033\\Controllers\\CartController.cs",
+              "ViewState": "AQIAANQAAAAAAAAAAAAuwNkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T02:09:08.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "NguyenTrungTin_2122110033\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "NguyenTrungTin_2122110033\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T02:06:29.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SanPhamController.cs",
+              "DocumentMoniker": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\Controllers\\SanPhamController.cs",
+              "RelativeDocumentMoniker": "NguyenTrungTin_2122110033\\Controllers\\SanPhamController.cs",
+              "ToolTip": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\Controllers\\SanPhamController.cs",
+              "RelativeToolTip": "NguyenTrungTin_2122110033\\Controllers\\SanPhamController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-04T04:00:22.814Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 16,
               "Title": "OrderDetail.cs",
               "DocumentMoniker": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\Model\\OrderDetail.cs",
               "RelativeDocumentMoniker": "NguyenTrungTin_2122110033\\Model\\OrderDetail.cs",
@@ -87,11 +257,12 @@
               "RelativeToolTip": "NguyenTrungTin_2122110033\\Model\\OrderDetail.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T02:31:05.185Z"
+              "WhenOpened": "2025-04-04T02:31:05.185Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 18,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\Model\\Order.cs",
               "RelativeDocumentMoniker": "NguyenTrungTin_2122110033\\Model\\Order.cs",
@@ -103,7 +274,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 17,
               "Title": "Cart.cs",
               "DocumentMoniker": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\Model\\Cart.cs",
               "RelativeDocumentMoniker": "NguyenTrungTin_2122110033\\Model\\Cart.cs",
@@ -115,7 +286,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 19,
               "Title": "Post.cs",
               "DocumentMoniker": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\Model\\Post.cs",
               "RelativeDocumentMoniker": "NguyenTrungTin_2122110033\\Model\\Post.cs",
@@ -127,7 +298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 21,
               "Title": "Banner.cs",
               "DocumentMoniker": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\Model\\Banner.cs",
               "RelativeDocumentMoniker": "NguyenTrungTin_2122110033\\Model\\Banner.cs",
@@ -139,7 +310,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 22,
               "Title": "NguyenTrungTin_2122110033",
               "DocumentMoniker": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj",
               "RelativeDocumentMoniker": "NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033.csproj",
@@ -150,7 +321,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\Model\\User.cs",
               "RelativeDocumentMoniker": "NguyenTrungTin_2122110033\\Model\\User.cs",
@@ -158,11 +329,12 @@
               "RelativeToolTip": "NguyenTrungTin_2122110033\\Model\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-04T00:59:53.399Z"
+              "WhenOpened": "2025-04-04T00:59:53.399Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 20,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "NguyenTrungTin_2122110033\\Controllers\\WeatherForecastController.cs",
@@ -174,7 +346,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\appsettings.json",
               "RelativeDocumentMoniker": "NguyenTrungTin_2122110033\\appsettings.json",
@@ -182,19 +354,21 @@
               "RelativeToolTip": "NguyenTrungTin_2122110033\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-28T04:02:14.752Z"
+              "WhenOpened": "2025-03-28T04:02:14.752Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\Model\\Product.cs",
-              "RelativeDocumentMoniker": "NguyenTrungTin_2122110033\\Model\\Product.cs",
-              "ToolTip": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\Model\\Product.cs",
-              "RelativeToolTip": "NguyenTrungTin_2122110033\\Model\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "DocumentIndex": 8,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\Model\\SanPham.cs",
+              "RelativeDocumentMoniker": "NguyenTrungTin_2122110033\\Model\\SanPham.cs",
+              "ToolTip": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\Model\\SanPham.cs",
+              "RelativeToolTip": "NguyenTrungTin_2122110033\\Model\\SanPham.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T02:19:09.974Z"
+              "WhenOpened": "2025-03-28T02:19:09.974Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -204,19 +378,20 @@
               "RelativeDocumentMoniker": "NguyenTrungTin_2122110033\\Data\\AppDbConnect.cs",
               "ToolTip": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\Data\\AppDbConnect.cs",
               "RelativeToolTip": "NguyenTrungTin_2122110033\\Data\\AppDbConnect.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAA1wCMAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T02:16:57.714Z"
+              "WhenOpened": "2025-03-28T02:16:57.714Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\Program.cs",
               "RelativeDocumentMoniker": "NguyenTrungTin_2122110033\\Program.cs",
               "ToolTip": "C:\\NetCore\\NguyenTrungTin_2122110033\\NguyenTrungTin_2122110033\\Program.cs",
               "RelativeToolTip": "NguyenTrungTin_2122110033\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwCkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-28T02:15:13.372Z"
             }

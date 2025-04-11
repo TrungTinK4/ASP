@@ -11,6 +11,6 @@ namespace NguyenTrungTin_2122110033.Model
         public decimal UnitPrice { get; set; }          // Giá từng sản phẩm
 
         public Order Order { get; set; }                // Tham chiếu đơn hàng
-        public Product Product { get; set; }            // Tham chiếu sản phẩm
+        public SanPham Product { get; set; }            // Tham chiếu sản phẩm
     }
 }
